@@ -109,6 +109,8 @@ This project is useful for learning date manipulation and real-world calculation
 
 `project3_Background_remover.py`
 
+https://athrav138-python-mini-projec-project3-background-remover-84p6hb.streamlit.app/
+
 ## 📖 Description
 
 The Background Remover project is an image processing application that removes the background from images automatically using Python libraries and AI-based background removal techniques.
